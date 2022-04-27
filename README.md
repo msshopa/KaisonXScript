@@ -1,2 +1,3 @@
-# KaisonXScript
-Free Script
+return {
+"223.206.248.238"
+}
